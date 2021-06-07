@@ -6,11 +6,11 @@
 	<parent>
 		<groupId>br.com.asv</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.1.6</version>
+		<version>0.1.9</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<artifactId>client</artifactId>
-	<version>0.1.18</version>
+	<version>0.1.27</version>
 	<name>asv-client</name>
 	
 	<description>Client dto</description>
@@ -20,7 +20,13 @@
 		<dependency>
 			<groupId>br.com.asv</groupId>
 			<artifactId>base</artifactId>
-			<version>0.1.11</version>
+			<version>0.1.19</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>at.favre.lib</groupId>
+			<artifactId>id-mask</artifactId>
+			<version>0.5.0</version>
 		</dependency>
 	
 	</dependencies>
