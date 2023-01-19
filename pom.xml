@@ -6,17 +6,17 @@
 	<parent>
 		<groupId>br.com.asv</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.1.13</version>
+		<version>0.2.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<artifactId>client</artifactId>
-	<version>0.1.33</version>
+	<version>0.2.01</version>
 	<name>asv-client</name>
 
 	<description>Client dto</description>
 
 	<properties>
-		<asv.base.version>0.1.27</asv.base.version>
+		<asv.base.version>0.2.01</asv.base.version>
 	</properties>
 
 	<dependencies>
